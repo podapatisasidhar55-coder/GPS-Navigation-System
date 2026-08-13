@@ -1,9 +1,5 @@
 # GPS Navigation System using Graph
 
-## Team Members
-- P.Sasidhar
-- VSB.Varun
-
 ## Problem Statement
 To design a GPS navigation system that finds the shortest path between locations using a graph data structure.
 
